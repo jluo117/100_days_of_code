@@ -119,6 +119,20 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
   * Learn how to use the spotify api
 </details>
 
+<details>
+ <summary>Jerry Tan</summary>
+ 
+* Goals:
+  * Continune to learn more web development 
+     * Experiment with different frameworks(Vue, Angular)
+     * Start making personal website
+     * Learn how to make web apps
+  * Learn Data Science/ Machine Learning
+    * Tensorflow
+    * Deep Learning
+  * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
+</details>
+
 ## Challenge
 
 ![Slap Bet](https://media.giphy.com/media/VwGLr1hhleHjW/giphy.gif)
