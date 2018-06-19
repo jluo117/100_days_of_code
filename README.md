@@ -192,3 +192,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 ---
 
 ### Day 2: June 19, 2018
+
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Created a news page layout for embedded news | News items need to pull data from the slug provided by butter | x |
+
