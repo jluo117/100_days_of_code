@@ -196,5 +196,5 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 #### John Pham
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| Created a news page layout for embedded news | News items need to pull data from the slug provided by butter | x |
+| Created a news page layout for embedded news. Created my first neural network using `tensorflow.js` | News items need to pull data from the slug provided by butter | x |
 
