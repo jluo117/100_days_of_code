@@ -163,6 +163,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | My first day of work! Yayayay! I worked on learning how to write markup for .XML files. | Soup after work is the best. | https://bit.ly/2qrUk7w |
+| Worked on more of the same stuff as yesterday. I also looked into some articles about scripting practices in Unity. | Updating this on my phone from the beach! | n/a |
 
 #### Cameron
 | What did you do today? | Comment(s) | Link(s) |
