@@ -49,7 +49,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
     * Make website for RoseHacks
     * Continue with online class for web dev
     * Update personal website and portfolio
-* BONUS GOALS: 
+* BONUS GOALS:
   * Ship my 2D game for either PC or Mobile
 </details>
 
@@ -70,7 +70,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
   * Make a BattleSnake bot and train it on a neural network
 * Jerry Tan
 * Goals:
-  * Continune to learn more web development 
+  * Continune to learn more web development
     * Experiment with different frameworks(Vue, Angular, Flask)
     * Start making personal website
     * Learn how to make web apps
@@ -113,17 +113,17 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 <summary>Harley Siezar</summary>
 
 * Goals:
-  * get familiar with angular 
-  * and React 
+  * get familiar with angular
+  * and React
   * Understand, from a high level,neural networks
   * Learn how to use the spotify api
 </details>
 
 <details>
  <summary>Jerry Tan</summary>
- 
+
 * Goals:
-  * Continune to learn more web development 
+  * Continune to learn more web development
      * Experiment with different frameworks(Vue, Angular)
      * Start making personal website
      * Learn how to make web apps
@@ -182,7 +182,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 #### Jacob
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| x | x | x |
+| I made updates and added new features for my website for China | I'm not creative whatsoever. | www.engr.ucr.edu/~ires/IRES2018/ |
 
 #### Harley Siezar
 | What did you do today? | Comment(s) | Link(s) |
@@ -196,3 +196,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | clean up `gamescene.swift` | used inheritance to build single player class and multiplayer class | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
+
+#### Jacob
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Made more changes to China website. Getting ready to update blogs while in China. | Need to look into modular loading. | www.engr.ucr.edu/~ires/IRES2018/ |
