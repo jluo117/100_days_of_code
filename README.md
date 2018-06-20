@@ -197,7 +197,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | clean up `gamescene.swift` | used inheritance to build single player class and multiplayer class | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
 
+#### Jerry
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep | went over some Linked List questions and material from Codepath Advanced Interview Prep course| |
+
 #### Jacob
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Made more changes to China website. Getting ready to update blogs while in China. | Need to look into modular loading. | www.engr.ucr.edu/~ires/IRES2018/ |
+
