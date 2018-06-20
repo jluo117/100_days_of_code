@@ -192,6 +192,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 ---
 
 ### Day 2: June 19, 2018
+#### James
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| clean up `gamescene.swift` | used inheritance to build single player class and multiplayer class | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
 #### Jerry
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
