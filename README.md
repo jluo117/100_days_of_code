@@ -192,3 +192,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 ---
 
 ### Day 2: June 19, 2018
+#### Jerry
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep | went over some Linked List questions and material from Codepath Advanced Interview Prep course| |
