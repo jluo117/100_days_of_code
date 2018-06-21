@@ -218,4 +218,14 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Made more changes to China website. Getting ready to update blogs while in China. | Need to look into modular loading. | www.engr.ucr.edu/~ires/IRES2018/ |
 
+### Day 3: June 20, 2018
 
+#### James
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| intergrated code onto UI | There is bugs like every where in multiplayer and i could use some help | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
+
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Deployed a Tensorflow model using Tensorflow Serving | Look into AWS for instance hosting | x |
