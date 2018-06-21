@@ -218,6 +218,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Made more changes to China website. Getting ready to update blogs while in China. | Need to look into modular loading. | www.engr.ucr.edu/~ires/IRES2018/ |
 
+#### Harley Siezar
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Today I did some catching up for my project for work that offically begins tomorrow. I had to take a quick crash course on angularjs and the differences between it and react | still have lots to go | x |
+
+---
+
 ### Day 3: June 20, 2018
 
 #### James
@@ -235,3 +242,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Learned introductory SQL | watched video lectures of SQL and NOSQL on Udemy | x |
 
+=======
+#### Wendingo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Read chapter in book about mobile app development for Android. | n/a | n/a |
+
+#### Harley
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| I studied and learned about tools used to visualize data | We are going to use the style of the link on the left to model the movement of customers thru the store | https://www.windy.com/?38.823,-72.114,4|
