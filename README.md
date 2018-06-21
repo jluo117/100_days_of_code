@@ -229,3 +229,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Deployed a Tensorflow model using Tensorflow Serving | Look into AWS for instance hosting | x |
+
+
+#### Wendingo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Read chapter in book about mobile app development for Android. | n/a | n/a |
