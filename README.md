@@ -251,12 +251,19 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | I studied and learned about tools used to visualize data | We are going to use the style of the link on the left to model the movement of customers thru the store | https://www.windy.com/?38.823,-72.114,4|
+<<<<<<< HEAD
 
 ---
 
-### Day 4: June 00, 2018
+### Day 4: June 21, 2018
 
 #### John Pham 
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Created production server using CentOS 7 and Apache, dabbled with p5.js to create a Barnsley Fern, added funding page for CSE | x | x |
+
+#### James
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| push the multiplayer build onto itunes connect | waiting for legal stuff to finish and then it can be submitted for review | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
+>>>>>>> 1411417c2e70c6f389cf83244dd207550c564f3c
