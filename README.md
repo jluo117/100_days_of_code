@@ -198,6 +198,11 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Created a news page layout for embedded news. Created my first neural network using `tensorflow.js` | News items need to pull data from the slug provided by butter | x |
 
+#### Wendy
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on more of the same stuff as yesterday. I also looked into some articles about scripting practices in Unity. | Updating this on my phone from the beach! | n/a |
+
 #### James
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
@@ -213,4 +218,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Made more changes to China website. Getting ready to update blogs while in China. | Need to look into modular loading. | www.engr.ucr.edu/~ires/IRES2018/ |
 
-
+### Day 3: June 20, 2018
+#### James
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| intergrated code onto UI | There is bugs like every where in multiplayer and i could use some help | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
