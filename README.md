@@ -266,3 +266,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | push the multiplayer build onto itunes connect | waiting for legal stuff to finish and then it can be submitted for review | [Soccer Pong](https://github.com/jluo117/SoccerPong) |
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Read some of the Slack API documentaion| looked at the Slack API documentation to come up with ideas for upcoming Slackathon if I decide to go | x |
+
+
