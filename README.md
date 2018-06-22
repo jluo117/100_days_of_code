@@ -271,4 +271,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Read some of the Slack API documentaion| looked at the Slack API documentation to come up with ideas for upcoming Slackathon if I decide to go | x |
 
-
+#### Harley Siezar
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| The Uber Wind Data visualization was made using Web GL, I took the time to learn the tools provided by the librrary and hw it can help my project| x | x |
