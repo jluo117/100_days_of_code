@@ -280,3 +280,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Read up on Python Documents for OS level instructions | x | x |
+#### Harley Siezar
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| made sample code using three.js for tutorials| x | I miss yall |
