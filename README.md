@@ -275,12 +275,23 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | The Uber Wind Data visualization was made using Web GL, I took the time to learn the tools provided by the librrary and hw it can help my project| x | x |
+
+---
+
 #### Day 5 June 22,2018
+
 #### James
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Read up on Python Documents for OS level instructions | x | x |
+
 #### Harley Siezar
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | made sample code using three.js for tutorials| x | I miss yall |
+
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Played with ipv6 hosting, created an install script for new machines | x | x |
+
