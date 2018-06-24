@@ -300,4 +300,15 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Experimented with Angular and jQuery with my personal webpage | x | x |
 
+---
 
+#### Day 6 June 23,2018
+
+#### James
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+
+#### Harley
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| I finally got admin access yesterday so I got to actually look at the skeleton code my boss made. I started working on a plan to restructure the backend to no longer store duplicate data sources.| x | x | 
