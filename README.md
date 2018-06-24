@@ -322,3 +322,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | I finally got admin access yesterday so I got to actually look at the skeleton code my boss made. I started working on a plan to restructure the backend to no longer store duplicate data sources.| x | x | 
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did some more Linked List questions for my Technical Interview Prep| x | x | 
