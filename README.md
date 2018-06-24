@@ -295,3 +295,11 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Played with ipv6 hosting, created an install script for new machines | x | x |
 
+---
+
+#### Day 6 June 23,2018
+
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Brainstormed capstone project idea, started emoji cli app | x | x |
