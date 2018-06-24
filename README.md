@@ -299,6 +299,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 #### Day 6 June 23,2018
 
+#### James
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+
 #### Harley
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
