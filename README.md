@@ -295,6 +295,11 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Played with ipv6 hosting, created an install script for new machines | x | x |
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Experimented with Angular and jQuery with my personal webpage | x | x |
+
 ---
 
 #### Day 6 June 23,2018
