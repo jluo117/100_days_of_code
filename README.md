@@ -341,3 +341,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Worked on emoji project using commander, learned how to setup eslint|My roommate is love <3|x|
+#### Day 8 June 25,2018
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Look into game center high score system|x|x|
+
