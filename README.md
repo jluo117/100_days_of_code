@@ -341,3 +341,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Worked on emoji project using commander, learned how to setup eslint|My roommate is love <3|x|
+
+#### Harley
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Today I got curious so i started watching videos on bulding neural networks| my gf is packing up for her flight tomorrow, how can i make her miss the flight| x | 
