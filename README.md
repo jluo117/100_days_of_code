@@ -346,3 +346,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Today I got curious so i started watching videos on bulding neural networks| my gf is packing up for her flight tomorrow, how can i make her miss the flight| x | 
+
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep| Reviewed stacks and queues material from CodePath Advanced SE Interview Prep |x|
+
