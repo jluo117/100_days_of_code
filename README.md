@@ -328,9 +328,16 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Did some more Linked List questions for my Technical Interview Prep| x | x | 
 
+---
+
 #### Day 7 June 24,2018
+
 #### James
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |look over ARkit and work on research materials|x|x|
 
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on emoji project using commander, learned how to setup eslint|My roommate is love <3|x|
