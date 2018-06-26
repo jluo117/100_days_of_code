@@ -365,3 +365,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Went over basic SQL and databases|first day at work, limited by lack of admin access (my branch manager wasnt there today rip) |x|
+
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on regex pattern for finding all variables names | x |x|
