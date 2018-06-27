@@ -366,7 +366,23 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 |Went over basic SQL and databases|first day at work, limited by lack of admin access (my branch manager wasnt there today rip) |x|
 
+#### John Pham
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on regex pattern for finding all variables names | x |x|
+
 #### Harley
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
-| started working on my persona; website for my photography| x | x |
+| started working on my personal website for my photography| x | x |
+
+---
+
+#### Day 9 June 26, 2018
+
+#### John Pham
+
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| More regular expressions today for the emoji program|x|x|
+
