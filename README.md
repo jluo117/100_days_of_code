@@ -370,3 +370,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Worked on regex pattern for finding all variables names | x |x|
+
+---
+
+#### Day 9 June 26, 2018
+
+#### John Pham
+
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| More regular expressions today for the emoji program|x|x|
