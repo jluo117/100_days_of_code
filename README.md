@@ -403,8 +403,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | delved more in depth with SQL and relational databases in general | x | x |
 
-
-
-
-
-
+#### Harley
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Did a few meteor tutorial modules | x | x |
