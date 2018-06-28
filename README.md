@@ -385,7 +385,26 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | More regular expressions today for the emoji program|x|x|
+
+
 #### Harley
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | working on pulling data from a MDB | x | x |
+
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| looked into clean code for refactoring lab work|x|x|
+
+
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| delved more in depth with SQL and relational databases in general | x | x |
+
+
+
+
+
+
