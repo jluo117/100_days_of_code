@@ -418,6 +418,12 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 #### Day 11 June 28, 2018
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| read more on SQL statements involving multiple tables and also SQL scripting | x | x |
+
+
 #### Harley
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
