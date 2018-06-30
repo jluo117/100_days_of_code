@@ -415,7 +415,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Did a few meteor tutorial modules | x | x |
-
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Watch udemy video about MLKit|x|x|
 #### Day 11 June 28, 2018
 
 #### Jerry Tan
@@ -428,10 +431,16 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | worked on photography website| x | x |
-
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Watch a couple videos about Python exploits|x|x|
 
 #### Day 12 June 29, 2018
-
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Worked on drafting an EULA for my apps|x|x|
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
