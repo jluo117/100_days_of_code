@@ -445,3 +445,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | read up on how to best design and create SQL databases | x | x |
+#### Day 13 June 30, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Looked into bridging objective-c and swift|x|x|
