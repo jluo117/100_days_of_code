@@ -490,3 +490,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Fix some stuff on my website|x|x|
+#### Day 18 July 5, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Parallax my site|x|[jluo117.github.io](https://jluo117.github.io/)|
+
