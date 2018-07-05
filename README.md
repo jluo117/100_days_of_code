@@ -467,13 +467,26 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | Did more Leetcode problems involving stacks and queues| x | x | 
 
 #### Day 15 July 2, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| How to file a proper bug bounty report and did interview questions|x|x|
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | watched some videos on Artifical Intelligence and machine learning applications | Should I even watch the NBA this season rip :(| x | 
 
 #### Day 16 July 3, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Looked into IRC and how to intergrate it with my Twitch Channel|x|x|
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | read up on working with Django framework for Citrus Hack Website | x | x | 
+#### Day 17 July 4, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Fix some stuff on my website|x|x|
