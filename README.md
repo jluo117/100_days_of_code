@@ -502,3 +502,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Parallax my site|x|[jluo117.github.io](https://jluo117.github.io/)|
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Wrote some queries for my team's test server using Microsoft SQL|x|x|
+
+
