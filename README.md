@@ -507,8 +507,13 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Wrote some queries for my team's test server using Microsoft SQL|x|x|
 
-#### Day 1 July 6, 2018
+#### Day 19 July 6, 2018
 #### James Luo
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Twitter Bot|x|x|
+
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Did more query work |x|x|
