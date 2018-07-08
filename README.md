@@ -517,3 +517,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Did more query work |x|x|
+#### Day 20 July 7, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| worked on Travis CI stuff and python file organization|x|x|
