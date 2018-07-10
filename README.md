@@ -543,3 +543,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Learn JavaScript|what in the world am i doing right now|x|
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Classified Intern work| x | x |
+
