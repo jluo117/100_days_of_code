@@ -537,4 +537,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | brainstormed outline for codeConnects mock ups and Citrus Hack coming soon page|x|x|
+#### Day 22 July 9, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Learn JavaScript|what in the world am i doing right now|x|
 
