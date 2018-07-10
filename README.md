@@ -553,3 +553,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | More JS|Object design|x|
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+|Deleved deeper into python, brainstorm how it could be utilized as the backend for the Citrus Hack Website | x | x |
+
