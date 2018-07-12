@@ -557,4 +557,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 |Deleved deeper into python, brainstorm how it could be utilized as the backend for the Citrus Hack Website | x | x |
+#### Day 24 July 11, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Clean up some PRs|x|x|
+
 
