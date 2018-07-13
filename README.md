@@ -578,4 +578,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | started learning react native | x | x |
 
+#### Day 26 July 13, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| looked into Amazon DynamoDB/AWS for development of codeConnects portal/website |x|x|
 
