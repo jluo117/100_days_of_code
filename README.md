@@ -593,4 +593,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | leetcode |x|x|
 
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| started brainstorming user login/logout system for citrus hack | x | x |
+
 
