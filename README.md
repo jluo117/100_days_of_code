@@ -598,4 +598,12 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | started brainstorming user login/logout system for citrus hack | x | x |
 
+#### Day 28 July 15, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| throughly went over Django documentation |x|x|
+
+
+
 
