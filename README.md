@@ -627,6 +627,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | started working on login system for CutieHacks |x|x|
 
-
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Played with my home network try to look for weaknesses |x|x|
 
 
