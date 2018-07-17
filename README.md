@@ -621,5 +621,12 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | learned more Vue.js |x|x|
 
 
+#### Day 30 July 17, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| started working on login system for CutieHacks |x|x|
+
+
 
 
