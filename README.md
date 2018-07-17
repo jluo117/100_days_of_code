@@ -605,5 +605,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | throughly went over Django documentation |x|x|
 
 
+#### Day 28 July 15, 2018
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| leetcode |x|x|
 
 
