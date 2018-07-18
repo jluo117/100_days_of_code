@@ -632,4 +632,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Played with my home network try to look for weaknesses |x|x|
 
-
+#### Day 31 July 18, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| looked at more Django, brainstorm login page for the Coding School portal |x|x|
