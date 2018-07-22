@@ -661,3 +661,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep|went over graphs |x|
+
+#### Day 34 July 21, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| worked on login page for CodeConnects |need to tweak UI|x|
