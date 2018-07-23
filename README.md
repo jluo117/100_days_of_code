@@ -681,3 +681,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | started learning about neural networks | made my commit on time |x|
+#### Day 36 July 23, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| worked on cutieHacks backend | application forms |x|
+
