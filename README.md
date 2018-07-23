@@ -686,4 +686,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | worked on cutieHacks backend | application forms |x|
+#### James Luo
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Threading|pulling data using API and cocoa framworks|x|
 
